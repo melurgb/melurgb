@@ -35,20 +35,8 @@ I am just a human being trying to learn what this world is evolving in :)
 
 <div align="center">
 
-<table align="center">
-    <tr>
-      <th><h3>📈 Github Stats</h3></th>
-      <th><h3>💭 Random Dev Quote</h3></h3></th>
-    </tr>
-    <tr>
-        <td align="center" width="50%">
-            <img src="https://github-readme-stats-fast.vercel.app/api?username=dikaprsty916&show_icons=true&theme=prussian" alt="Exzort567's GitHub Stats" />
-            <br />
-        </td>
-        <td align="center" width="50%">
-            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=prussian" alt="Random Dev Quote" />
-        </td>
-    </tr>
+
+            
 </table>
 </div>
 
