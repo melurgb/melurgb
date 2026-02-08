@@ -1,50 +1,21 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Melina</h1>
+<h3 align="center">A Computer Systems Technician and a Programmer</h3>
 
-# 👋 Hello, I'm [Melina](https://kensanity.is-a.dev/)!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melurgb&label=Profile%20views&color=0e75b6&style=flat" alt="melurgb" /> </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melurgb" alt="melurgb" /></a> </p>
 
----
+- ⚡ Fun fact **I might be batman**
 
-## 🚀 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I am just a human being trying to learn what this world is evolving in :)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- 🎯 Focused onlearning coding
-- 🧠 Always learning and improving my skills
-- 💡 Enjoy the process
-- ⚡ Fun fact: unknown
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melurgb&show_icons=true&locale=en&layout=compact" alt="melurgb" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melurgb&show_icons=true&locale=en" alt="melurgb" /></p>
 
-## 🛠️ Technologies & Tools
-
-### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 🤖 Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-
-
-
-<div align="center">
-
-
-            
-</table>
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/dikaprsty916/dikaprsty916/output/snake.svg" alt="Snake animation" />
-
-###
----
-<div align="center">
-  <b></b>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melurgb&" alt="melurgb" /></p>
