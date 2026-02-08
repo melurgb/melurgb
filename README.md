@@ -1,28 +1,62 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Melina
-===============================================================================================================================
+<div align="center">
 
-Computer Systems Technician/Programmer
---------------------------------------
+# 👋 Hello, I'm [Melina](https://kensanity.is-a.dev/)!
 
-Just want to try what this world is trying to hide
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
+</div>
 
-* 💬  Ask me about I'm trying my best
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-</p>
+## 🚀 About Me
 
-### Socials
+I am just a human being trying to learn what this world is evolving in :)
 
-<p align="left"> <a href="https://www.github.com/melurgb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<a href="https://www.github.com/melurgb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/melurgb?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
-### Badges
+- 🎯 Focused onlearning coding
+- 🧠 Always learning and improving my skills
+- 💡 Enjoy the process
+- ⚡ Fun fact: unknown
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/melurgb"><img src="https://github-readme-stats.vercel.app/api?username=melurgb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="melurgb's GitHub stats" /></a>
+## 🛠️ Technologies & Tools
 
-<a href="http://www.github.com/melurgb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=melurgb&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<a href="https://github.com/melurgb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melurgb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 🤖 Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+
+
+
+<div align="center">
+
+<table align="center">
+    <tr>
+      <th><h3>📈 Github Stats</h3></th>
+      <th><h3>💭 Random Dev Quote</h3></h3></th>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <img src="https://github-readme-stats-fast.vercel.app/api?username=dikaprsty916&show_icons=true&theme=prussian" alt="Exzort567's GitHub Stats" />
+            <br />
+        </td>
+        <td align="center" width="50%">
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=prussian" alt="Random Dev Quote" />
+        </td>
+    </tr>
+</table>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/dikaprsty916/dikaprsty916/output/snake.svg" alt="Snake animation" />
+
+###
+---
+<div align="center">
+  <b></b>
