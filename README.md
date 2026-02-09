@@ -32,16 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=melurgb&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melurgb&theme=tokyonight" />
-</p>
-
----
 
 > _"Code is my weapon. Linux is my playground."_ ⚡
